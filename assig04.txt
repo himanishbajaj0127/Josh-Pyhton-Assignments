@@ -1,0 +1,8 @@
+Added the questions and their programs in .py files
+Adding questions here also
+
+    Q1-Convert the list [1, 2, 3, 4, 5] to [2, 4, 6, 8, 10] with list comprehension
+
+    Q2-Build a retry decorator with retry time and retry interval to run a function 3 time with interval of 3 sec
+
+    Q3-Build a counter generator
