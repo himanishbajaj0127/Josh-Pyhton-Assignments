@@ -7,4 +7,4 @@ Adding questions here also
 
     Q3-Create a program to validate the age of the voter with the help of custom exception. Voters whose age is less than 18 should not be allowed to vote.
 
-    Q4-Create a program to check eligibility of the person for loan  with the help of oops concepts and exception handling. Person whose salary is less than 10K/ Month will not be eligible for the loan.
+    Q4-Create a program to check eligibility of the person for loan  with the help of oops concepts and exception handling. Person whose salary is less than 10K/ Month will          not be eligible for the loan.
